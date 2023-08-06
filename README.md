@@ -31,7 +31,7 @@ The project is organized as follows:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/plant-diseases-detection.git
+git clone https://github.com/moaazosman/plant-diseases-detection.git
 ```
 
 2. Install the required dependencies using `pip`:
